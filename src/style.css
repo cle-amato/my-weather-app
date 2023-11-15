@@ -1,0 +1,47 @@
+form {
+  margin: 25px 10px;
+  font-family: "Montserrat", sans-serif;
+}
+
+h2 {
+  margin-top: 30px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.weather-app {
+  border: solid #b7b4ae;
+  margin: 20px;
+  max-width: 800px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.current-temperature {
+  font-weight: bold;
+  font-size: 20px;
+}
+.main-feels-like-temp.precipitations {
+  font-size: 15px;
+  color: #666460;
+}
+.next-days {
+  border: solid #b7b4ae;
+  padding: 15px;
+  margin-top: 20px;
+  font-family: "Montserrat", sans-serif;
+}
+
+.bottom-min-max-temp {
+  font-size: 12px;
+}
+.weekday {
+  font-weight: bold;
+}
+.bottom-row-img {
+  margin: 0 auto;
+  width: 60px;
+}
+
+.card {
+  padding-bottom: 15px;
+}
